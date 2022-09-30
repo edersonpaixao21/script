@@ -7,7 +7,7 @@ _() {
   echo "GitHub Access token: "
   read -r ACCESS_TOKEN
 
-  YEAR="2018"
+  YEAR="2020"
 
   [ -z "$USERNAME" ] && exit 1
   [ -z "$ACCESS_TOKEN" ] && exit 1  
